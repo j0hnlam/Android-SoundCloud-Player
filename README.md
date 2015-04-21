@@ -1,7 +1,7 @@
 # Android-SoundCloud-Player
 Final project Android application for Mobile Application Development 60-420.
 
-This is an Android application that utializes the Soundcloud API to play your favourite music from Soundcloud.
+This is an Android application that utilizes the Soundcloud API to play your favourite music from Soundcloud.
 
 Features a simple and clean design that is heavily influenced by Google's Material Design philosophy.
 
