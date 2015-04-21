@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidCloudMusicPlayer/androidCloudMusicPlayer.iml" filepath="$PROJECT_DIR$/androidCloudMusicPlayer/androidCloudMusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml" filepath="$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml" />
+    </modules>
+  </component>
+</project>
+

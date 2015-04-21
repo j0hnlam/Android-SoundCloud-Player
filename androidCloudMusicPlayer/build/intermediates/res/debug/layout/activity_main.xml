@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:orientation="vertical" >
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/list_tracks"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_ad"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+        android:cacheColorHint="#00000000"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="15sp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@color/black"
+        android:scrollbars="none"
+        android:smoothScrollbar="true"
+        ptr:ptrDrawable="@drawable/ic_dark_action_refresh"
+        ptr:ptrHeaderSubTextColor="@color/black"
+        ptr:ptrHeaderTextColor="@color/black" >
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+    <TextView
+        android:id="@+id/tv_no_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="5sp"
+        android:layout_marginRight="5sp"
+        android:text="@string/info_no_track"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/layout_ad"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal" >
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/layout_listen_music"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/item_listen_music"
+        android:visibility="gone" />
+
+</RelativeLayout><!-- From: file:/Users/JohnLam/Desktop/Computer%20Science/Mobile%20Application%20Development/FinalProject/androidCloudMusicPlayer/src/main/res/layout/activity_main.xml -->

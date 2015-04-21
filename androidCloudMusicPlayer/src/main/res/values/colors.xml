@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    
+    <color name="grey">#dedede</color>
+    <color name="grey_background">#eeeeee</color>
+    
+    <color name="alpha_white">#90ffffff</color>
+    <color name="alpha_black">#90000000</color>
+    
+    <color name="blue_primary">#00bcd4</color>
+    <color name="blue_primary_dark">#00a0b4</color>
+    <color name="blue_tab">#18FFFF</color>
+    
+    <color name="pink_primary">#ff4081</color>
+    <color name="pink_dark">#f50057</color>
+    <color name="pink_fallback">#ff80ab</color>
+    
+    <color name="purple_accent">#9c27b0</color>
+    <color name="purple_fallback">#e040fb</color>
+    
+    <color name="light_grey">#fafafa</color>
+    
+    <color name="black_deviders">#1f000000</color>
+    <color name="black_hint_text">#42000000</color>
+    <color name="black_secondary_text">#8A000000</color>
+    <color name="black_text">#de000000</color>
+
+</resources>

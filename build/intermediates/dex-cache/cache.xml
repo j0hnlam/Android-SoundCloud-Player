@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/exploded-aar/FinalProject/dBPullToRefresh/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8b66dc3f781008603fb8fa2b6e715481b003707c">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/classes-ebe3cff989b8566945651fe984977ea5a9b08e61.jar" />
+    </item>
+    <item
+        jar="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/classes-3aed9e16419708305815ebec84c001bba0d2ee4a.jar" />
+    </item>
+    <item
+        jar="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/internal_impl-21.0.3-002f014ee4df0fe02b9e74e0bbfe8f808713a5cb.jar" />
+    </item>
+    <item
+        jar="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/classes-9a7e234575d987cccee0279be8c5d4ab15ee4e35.jar" />
+    </item>
+    <item
+        jar="/Users/JohnLam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/support-annotations-21.0.3-b010da92a6e3f82e8e96e7a95aab319cc0a835b7.jar" />
+    </item>
+    <item
+        jar="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/libs/ypylibs.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a810862bb1657c7f890e24f12268ecd210ad62dc">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/ypylibs-cfe5bfdb2aa74d7e66f7d1106f8f71645aca11e1.jar" />
+    </item>
+    <item
+        jar="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/JohnLam/Desktop/Computer Science/Mobile Application Development/FinalProject/androidCloudMusicPlayer/build/intermediates/pre-dexed/release/universal-image-loader-1.9.3-c7ccd9169314d248070d2f1cd34329d36861b632.jar" />
+    </item>
+
+</items>

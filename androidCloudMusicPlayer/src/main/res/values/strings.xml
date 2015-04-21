@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soundcloud Player</string>
+    <string name="copyright">© 2015 60-420.</string>
+    
+    <string name="loading">Please wait...</string>
+    <string name="title_yes">Yes</string>
+    <string name="title_no">No</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_info">Information</string>
+    
+    <string name="title_confirm">Confirm</string>
+    <string name="title_warning">Warning</string>
+    
+    <string name="title_about_us">About Us</string>
+    <string name="title_done">Done</string>
+    <string name="title_search">Search song</string>
+    <string name="title_rate_us">Rate me</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_website">Website</string>
+    <string name="title_twitter">Twitter</string>
+    <string name="title_try_again">Try Again</string>
+    <string name="title_download">Downloading...</string>
+    <string name="format_album">Album: %1$s</string>
+    <string name="title_unknown">Unknown</string>
+    <string name="title_settings">Setting</string>
+
+    <string-array name="list_share">
+        <item>Send Email</item>
+        <item>Website</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Rate me</item>
+    </string-array>
+
+    <string name="info_no_track">No Track</string>
+    <string name="info_lose_internet">No internet connection.Please check again!</string>
+    <string name="info_empty">Please enter the keyword!</string>
+    <string name="info_close_app">Do you want to exit the application?</string>
+    <string name="info_server_error">We can not connect to server.Please try again!</string>
+    <string name="info_download">Do you want to download this song?</string>
+    <string name="info_download_error">Download song error.Please try again later</string>
+    <string name="info_download_success">Download song successful.File is saved in %1$s</string>
+    <string name="info_download_exits">This song has already downloaded.</string>
+    <string name="info_play_error">We can not play this song.Please try again later</string>
+    <string name="info_download_illegal">This author doesnot allow to download this song.</string>
+    
+    <string name="info_version_format">Version %1$s</string>
+
+</resources>
